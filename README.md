@@ -18,3 +18,8 @@ Python: Keyring to send emails via python when the shell script crashes
 C++: libcurl, multiprotocol file transfer library. To transfer HTTP Files from espn to local computer.
 
       http://curl.haxx.se/libcurl/
+      
+      
+#####Disclaimer:
+
+Pragram may be out of date in respect to ESPN's website, eg. regular expressions may not work with the HTML on ESPN's websites as of now.
